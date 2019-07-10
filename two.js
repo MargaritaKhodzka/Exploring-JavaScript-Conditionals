@@ -1,6 +1,6 @@
-var isTrue = true;
+var isTrue = false;
 
-if(isTrue) {
+if (isTrue) {
 	console.log('yes');
 } else {
 	console.log('no');
